@@ -1,0 +1,59 @@
+text,label
+"yellow spots on leaves",early_blight
+"brown patches on leaf",early_blight
+"white powder on leaves",powdery_mildew
+"white fuzzy growth",powdery_mildew
+"mosaic pattern on leaf",mosaic_virus
+"stunted growth with mottling",mosaic_virus
+"leaves curled and distorted",mosaic_virus
+"black lesions on stem",late_blight
+"dark spots with yellow halo",late_blight
+"water soaked lesions",late_blight
+"leaf edges turning yellow",early_blight
+"small yellow specks on leaves",early_blight
+"white spots powder like",powdery_mildew
+"cottony white patches",powdery_mildew
+"mosaic discoloration",mosaic_virus
+"uneven coloration mosaic",mosaic_virus
+"wilting despite watering",late_blight
+"brown rot on tuber",late_blight
+"healthy green leaves",healthy
+"no visible disease",healthy
+"tiny brown dots",early_blight
+"leaf has brown rings",early_blight
+"white dust on upper surface",powdery_mildew
+"powder on leaf",powdery_mildew
+"mottled yellow and green",mosaic_virus
+"yellowing between veins",mosaic_virus
+"rapid collapse of plant",late_blight
+"dark necrotic spots",late_blight
+"leaves look healthy",healthy
+"normal plant",healthy
+"brown spots and decay",early_blight
+"spots turning black",early_blight
+"white powdery substance",powdery_mildew
+"leaf powdering",powdery_mildew
+"vein clearing mosaic",mosaic_virus
+"irregular mosaic patterns",mosaic_virus
+"severe blight on leaves",late_blight
+"lesions spreading",late_blight
+"green and healthy",healthy
+"no symptoms",healthy
+"small spots brown",early_blight
+"brown patches spreading",early_blight
+"white coating on leaves",powdery_mildew
+"dusty white patches",powdery_mildew
+"mosaic leaf markings",mosaic_virus
+"yellow mosaic signs",mosaic_virus
+"plant collapsing quickly",late_blight
+"wet dark spots",late_blight
+"leaf looks normal",healthy
+"very healthy plant",healthy
+"brown dots and holes",early_blight
+"black spots forming",early_blight
+"white film on leaf",powdery_mildew
+"fuzzy white growth",powdery_mildew
+"mottling and mosaic",mosaic_virus
+"yellow mosaic patches",mosaic_virus
+"dark rot on leaves",late_blight
+"wilting leaves dark spots",late_blight

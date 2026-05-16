@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite
+*.db
+*.db-journal
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.venv313/
+.venv_x/
+
+# Node
+node_modules/
+
+# Vite / build
+Frontend/dist/
+Frontend/.vite/
+
+# Environment files
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
